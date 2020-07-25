@@ -1,4 +1,4 @@
-project "imgui"
+project "ImGui"
 	language "C++"
 	staticruntime "Off"
 	kind "StaticLib"
